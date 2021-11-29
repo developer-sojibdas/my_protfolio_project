@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.94a4b366.chunk.css",
+    "main.js": "/static/js/main.edc44616.chunk.js",
+    "main.js.map": "/static/js/main.edc44616.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d6b08bca.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d6b08bca.js.map",
+    "static/js/2.c709581d.chunk.js": "/static/js/2.c709581d.chunk.js",
+    "static/js/2.c709581d.chunk.js.map": "/static/js/2.c709581d.chunk.js.map",
+    "static/js/3.0b7be681.chunk.js": "/static/js/3.0b7be681.chunk.js",
+    "static/js/3.0b7be681.chunk.js.map": "/static/js/3.0b7be681.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.94a4b366.chunk.css.map": "/static/css/main.94a4b366.chunk.css.map",
+    "static/js/2.c709581d.chunk.js.LICENSE.txt": "/static/js/2.c709581d.chunk.js.LICENSE.txt",
+    "static/media/about2.b2271865.jpg": "/static/media/about2.b2271865.jpg",
+    "static/media/bangladesh.e7e1dc7b.png": "/static/media/bangladesh.e7e1dc7b.png",
+    "static/media/Home.css": "/static/media/bg.jpg2.5c38be2d.jpg",
+    "static/media/book_libray.80138fdb.png": "/static/media/book_libray.80138fdb.png",
+    "static/media/contact us.bc492332.svg": "/static/media/contact us.bc492332.svg",
+    "static/media/honda_cbr.d23909e0.png": "/static/media/honda_cbr.d23909e0.png",
+    "static/media/house_med.50ab646e.png": "/static/media/house_med.50ab646e.png",
+    "static/media/simba_store.72ca75e0.png": "/static/media/simba_store.72ca75e0.png",
+    "static/media/tourism.72b18e1b.png": "/static/media/tourism.72b18e1b.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d6b08bca.js",
+    "static/js/2.c709581d.chunk.js",
+    "static/css/main.94a4b366.chunk.css",
+    "static/js/main.edc44616.chunk.js"
+  ]
+}
